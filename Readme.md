@@ -10,7 +10,7 @@
  В папке tmp нужно создать папку session:
 
   ```sh
-  mkdir tmp/template_c
+  mkdir tmp/session
   ```
 
 Установить права на запись для папки tmp и ее вложений:
