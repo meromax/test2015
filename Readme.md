@@ -1,3 +1,17 @@
-В папке tmp нужно создать папку templates_c
-Установить chmod 777 на папкт tmp/templates_c и tmp/session
+Измени Readme так
+Установка:
+---------
+
+В папке tmp нужно создать папку templates_c:
+
+ ```sh
+ mkdir tmp/template_c
+ ```
+
+Установить права на запись для папки tmp и ее вложений:
+
+ ```sh
+ chmod 777 -R tmp/
+ ```
+ 
 Дамп базы даееых mysql лежит в папке db
